@@ -15,6 +15,6 @@
 
 
 ## 第三方依赖：<br>
-### |dio: |^3.0.9<br>
-### provider: ^4.3.2<br>
-### event_bus: ^1.1.1
+* dio: ^3.0.9<br>
+* provider: ^4.3.2<br>
+* event_bus: ^1.1.1
