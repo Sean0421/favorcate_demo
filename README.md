@@ -13,8 +13,8 @@
 #### 5.利用'ChangeNotifierProxyProvider'让不同的Provider进行数据共享<br>
 
 ### 第三方依赖：
-|作者|果冻虾仁|
+|名称及版本|作用|
 |---|---
-|dio:| ^3.0.9
-|provider:| ^4.3.2
-|event_bus:| ^1.1.1
+|dio:^3.0.9|网络请求
+|provider:^4.3.2|状态管理
+|event_bus:^1.1.1|事件总线
