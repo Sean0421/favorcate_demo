@@ -11,7 +11,7 @@
 ###2.本地数据的网络请求<br>
 ###3.点击添加收藏/取消收藏功能，<br>
 ###4.过滤功能（例如是否含无谷蛋白或是否是素食者等）<br>
-###5.利用ChangeNotifierProxyProvider让不同的Provider进行数据共享<br>
+###5.利用'ChangeNotifierProxyProvider'让不同的Provider进行数据共享<br>
 <br>
 <br>
 #第三方依赖：
