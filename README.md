@@ -1,5 +1,6 @@
 # favorcate_demo
 美食广场Flutter版
+=====
 
 简介
 这是一个用Flutter写的简易版美食广场App
