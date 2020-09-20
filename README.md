@@ -12,6 +12,11 @@
 #### 4.过滤功能（例如是否含无谷蛋白或是否是素食者等）<br>
 #### 5.利用'ChangeNotifierProxyProvider'让不同的Provider进行数据共享<br>
 
+|作者|果冻虾仁|
+|---|---
+|知乎|[![zhihu-shield]][zhihu]
+|公众号|编程往事
+
 ### |第三方依赖：|
 |dio:| ^3.0.9
 |provider:| ^4.3.2
